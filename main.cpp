@@ -6,7 +6,6 @@
 using namespace std;
 
 int main() {
-    // Inicializar semilla para números aleatorios
     srand(time(nullptr));
     
     cout << "=================================" << endl;
